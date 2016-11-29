@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HighLowGame</string>
+    <string name="btnStart">Start</string>
+    <string name="btnAbout">About</string>
+    <string name="btnHelp">Help</string>
+    <string name="guess_hint">Enter your guess here</string>
+    <string name="guess">Guess</string>
+    <string name="number_of_guesses">Number of Guesses: 0</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
